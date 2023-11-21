@@ -118,27 +118,4 @@ Altera’s Cyclone IV FPGA was used for hardware implementation, at the software
 ### CONCLUSION
 In this paper, we have successfully implemented BB84 protocol on FPGA. The Quantum Cryptographic Protocols are a great asset for secure encryption and safe transmission of data. 
 
-### ACKNOWLEDGMENT
-This work was supported by the Department of Electronics and Communications Engineering, Faculty of Engineering And Technology, Jamia Millia Islamia, New Delhi. 
 
-
-
-#### References
-[1] Alharith A., Abdullah and Noor R., “Efficient Implementation for Prince Algorithm in FPGA based on BB84 Protocol,” 2021 Journal of Physics: Conference Series, 2021 
-
-[2] C. Bennett and G. Brassard: in Proceedings of the IEEE ICCSSP, 1984, p. 175
-
-[3]	I. S. Jacobs and C. P. Bean, “Fine particles, thin films and exchange anisotropy,” in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271–350.
-
-[4]	K. Elissa, “Title of paper if known,” unpublished.
-
-[5]	R. Nicole, “Title of paper with only first word capitalized,” J. Name Stand. Abbrev., in press.
-
-[6]	Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, “Electron spectroscopy studies on magneto-optical media and plastic substrate interface,” IEEE Transl. J. Magn. Japan, vol. 2, pp. 740–741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
-
-[7]	M. Young, The Technical Writer’s Handbook. Mill Valley, CA: University Science, 1989.
-
-
-
-### EDAPlayground
-[EDA Playground](https://www.edaplayground.com/x/7sha)
