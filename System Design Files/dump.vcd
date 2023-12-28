@@ -1,0 +1,57 @@
+$date
+	Fri Dec 22 11:36:06 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module BB84_tb $end
+$var wire 2 ! qubit [1:0] $end
+$var wire 1 " error $end
+$var wire 1 # a1 $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & b1 $end
+$var reg 1 ' spy $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0'
+0&
+0%
+1$
+1#
+1"
+b10 !
+$end
+#20
+x"
+x#
+b11 !
+1%
+#40
+1&
+0%
+b0 !
+0$
+#60
+1"
+0#
+b1 !
+1%
+#80
+1#
+1"
+0&
+0%
+b10 !
+1$
+#100
+x"
+x#
+b11 !
+1%
+#120
